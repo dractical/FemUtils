@@ -1,0 +1,35 @@
+# Gradle
+.gradle/
+**/.gradle/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# IDE metadata
+**/.classpath
+**/.project
+**/.settings/
+
+# IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# build
+**/out/
+**/*.class
+**/*.jar
+**/*.war
+**/*.log
+**/*.tmp
+**/*.pid
+**/*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# editors
+*.sublime-workspace
+*.sublime-project

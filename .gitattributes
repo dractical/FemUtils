@@ -1,0 +1,26 @@
+# line endings
+* text=auto eol=lf
+
+# language
+*.java text diff=java
+*.kt text diff=kotlin
+*.kts text diff=kotlin
+*.gradle text diff=gradle
+*.groovy text diff=groovy
+*.md text diff=markdown
+*.yml text diff=yaml
+*.yaml text diff=yaml
+*.json text
+*.xml text
+
+# binary files
+*.jar binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.zip binary
+*.keystore binary
+
+# IDE configs
+.idea/** text
