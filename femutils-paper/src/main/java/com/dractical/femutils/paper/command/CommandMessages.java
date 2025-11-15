@@ -8,8 +8,8 @@ import org.bukkit.command.CommandSender;
  */
 public final class CommandMessages {
     public static final String DEFAULT_NO_PERMISSION = "<red>You do not have permission to use this command.</red>";
-    public static final String DEFAULT_PLAYERS_ONLY  = "<red>This command can only be used by players.</red>";
-    public static final String DEFAULT_CONSOLE_ONLY  = "<red>This command can only be used from console.</red>";
+    public static final String DEFAULT_PLAYERS_ONLY = "<red>This command can only be used by players.</red>";
+    public static final String DEFAULT_CONSOLE_ONLY = "<red>This command can only be used from console.</red>";
     public static final String DEFAULT_INVALID_USAGE = "<red>Invalid usage.</red>";
 
     private CommandMessages() {
